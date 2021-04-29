@@ -54,3 +54,21 @@ function timeConverter(string){
 
   //CODE ABOVE HERE
 }
+
+
+
+/*
+For in loops
+
+Declare a variable named myObject and 
+assign it the value of an object literal
+
+Using dot notation, add three keys, first, second, 
+and third and assign to each key the value of a 10, 
+20, and 30
+
+Using a for in loop, and the addition assignment(+=)
+operator, add five to each value in myObject
+*/
+
+
